@@ -18,8 +18,7 @@ The folder may contain appropriately redacted versions of:
 - Stakeholder confirmation evidence
 
 ## Current Project Stage
-
-Planning and requirements
+System Design and architecture 
 
 ## Privacy and Security
 
